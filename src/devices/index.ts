@@ -260,6 +260,7 @@ import {definitions as radium} from "./radium";
 import {definitions as raex} from "./raex";
 import {definitions as repenicLtd} from "./repenic_ltd";
 import {definitions as rgbGenie} from "./rgb_genie";
+import {definitions as rinnconnect} from "./rinnconnect";
 import {definitions as robb} from "./robb";
 import {definitions as roome} from "./roome";
 import {definitions as rtx} from "./rtx";
@@ -631,6 +632,7 @@ const definitions: DefinitionWithExtend[] = [
     ...raex,
     ...repenicLtd,
     ...rgbGenie,
+    ...rinnconnect,
     ...robb,
     ...roome,
     ...lumi,
